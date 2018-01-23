@@ -1,1 +1,5 @@
 # Polynomials
+A polynomial is a sum of monomials, where x is a name of the variable, n is an exponent and p is the coefficient. Exponents in one polynomials are different from one another. Polynomial's coefficient is a polynomial of a new variable.
+
+Wielomian jest sumą jednomianów pxn, gdzie x jest nazwą zmiennej, n jest wykładnikiem będącym nieujemną liczbą całkowitą, a p jest współczynnikiem. Wykładniki jednomianów wchodzących w skład wielomianu są parami różne. Wielomian, który nie jest stały, nazywamy normalnym. Współczynnik jednomianu jest wielomianem nowej zmiennej, innej niż x, i innej niż wszystkie dotychczas użyte w tym jednomianie zmienne. Innymi słowy, jeśli oznaczymy zmienne wielomianu przez x0, x1, x2 itd., to wtedy współczynnik jednomianu o zmiennej xi, jeśli jest wielomianem normalnym, to jest on wielomianem zmiennej xi + 1. Wielomiany są rzadkie, co oznacza, że stopień wielomianu może być znacznie większy niż liczba składowych jednomianów.
+The project is not completely finished.
